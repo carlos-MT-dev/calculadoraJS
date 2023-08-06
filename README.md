@@ -9,5 +9,4 @@ Calculator with only one line (instruction) of javascript
   </kbd>
 </p>
 
-## Video Demo
-https://www.youtube.com/watch?v=liBiDMUVfR4
+
